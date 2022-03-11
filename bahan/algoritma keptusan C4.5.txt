@@ -1,0 +1,18 @@
+jika lansia = Tinggi dan penghasilan = Banyak maka keputusan tidak layak
+jika lansia = Tinggi dan Penghasilan = Cukup maka keputusan tidak layak 
+jika lansia = Tinggi dan penghasilan =Sedikit maka
+	jika Jenis lantai = sedang dan Tinggi maka keputusan Layak
+	jika Jenis Lantai = Rendah Maka
+		Jika Jenis dinding dan jml tanggungan = sedang maka keputusan Layak begitu sebaliknya
+		Jika Jenis dinding dan jml tanggungan =rendah maka luas rumah = sangat tinggi maka keputusan Layak
+
+Jika Lansia = Rendah dan jenis lantai = Tinggi maka keputusan Layak
+jika Lansia = Rendah dan jenis lantai = Rendah maka keputusan Tidak Layak
+Jika Lansia = Rendah dan jenis lantai = sedang maka
+	jikaJenis Dinding = Sedang & Tinggi maka keputusan Layak
+	jika Jenis Dingding = Rendah maka  
+		jika Penghasilan = Banyak maka keputusan tidak Layak
+		jika Penghasilan = sedikit dan jumlah tanggungan = sedang maka keputusan Layak
+		jika penghasilan = cukup dan jml tanggungan =sedikit maka Keputusan Tidak Layak 
+
+=if(
